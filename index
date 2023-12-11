@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>ICT Q2 PROJECT</title>
+</head>
+
+<style>
+
+body {
+   margin: 0;
+   padding: 0;
+   background-image: url('https://www.top-destination-choice-the-philippines.com/images/x175-detailed-map-of-the-philippines-philippines-tourist-map.jpg.pagespeed.ic.f7oPYj_SbR.jpg');
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-color: rgba(255, 255, 255, 0.7);
+
+th, td{
+   font-family: TimesNewRoman;
+   color: black;
+   width: 200px;
+   border: 3px dashed; black;
+}
+
+table {
+   border: 3px solid seagreen;
+   background-color: seagreen;
+   cellpadding: 5;
+   cellspacing: 10;
+}
+
+td img {
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+}
+
+body, h1, h2, h3, p, a {
+   margin: 0;
+   padding: 0;
+   border: 0;
+   font-size: 100%;
+   font: inherit;
+   vertical-align: baseline;
+      }
+</style>
+<body>
+	<center>
+<a href="https://www.itsmorefuninthephilippines.co.uk/" target="blank"><img src="https://itsmorefuninthephilippines.co.uk/wp-content/uploads/IMFITP_multicolored.png" height="150px" width="450px"><br><br><br>
+	
+
+	<table border="1" cellpadding="5" cellspacing="10" width="80%">
+
+   	<tr>
+            <th colspan="3">P H O T O   G A L L E R Y</th>
+     </tr>
+
+     <tr>
+            <td><a href="https://www.tripsavvy.com/exploring-the-cordilleras-rice-terraces-4106974" target="blank"><img src="https://www.tripsavvy.com/thmb/oi_oQV2iytXBJI1wUm643UyXZxE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/BangaanRiceTerraces-371de7fda8e04aa983e6591686320379.jpg" height="300px" width="380px" ></td>
+
+            <td><a href="https://en.wikipedia.org/wiki/Mayon" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mayon_Volcano_as_of_March_2020.jpg/408px-Mayon_Volcano_as_of_March_2020.jpg"></td>
+
+            <td><a href="https://philjets.com/destination/taal-volcano/" target="blank"><img src="https://philjets.com/wp-content/uploads/2018/07/aerial-tour-taal.jpg"></td>
+
+    </tr>
+
+    <tr>
+            <td><strong>Banaue Rice Terraces:</strong><br><p>The Banaue Rice Terraces, celebrated as the "Eighth Wonder of the World," are ancient marvels crafted by the Ifugao people over 2,000 years ago in the Philippine Cordilleras. Recognized by UNESCO, these terraces embody sustainable farming and the cultural richness of the Ifugao, symbolizing ingenuity and resilience.</p></td>
+
+            <td><strong>Taal Volcano:</strong><br><p>Taal Volcano, an iconic natural wonder, is nestled in the Philippines and often hailed as a geological marvel. Situated within a vast lake, it's known for its unique crater lake and the world's smallest active volcano. Taal Volcano's picturesque landscape and geological significance make it a captivating symbol of nature's grandeur in the Philippines.</p></td>
+    
+            <td><strong>Mayon Volcano:</strong><br><p>Mayon Volcano, a Philippine gem, stands tall as an active stratovolcano known for its perfect cone shape. Revered for its beauty and geological significance, Mayon has captivated visitors for centuries. Its majestic presence against the Albay skyline makes Mayon Volcano a symbol of natural splendor and a testament to the country's rich volcanic landscape.</p></td>
+    </tr>
+  
+</table>
+
+
+
+
+
+
+
+
+
+
+	</table>
+
+
+
+	</center>
+
+</body>
+</html>
